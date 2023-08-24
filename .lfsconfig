@@ -1,2 +1,2 @@
 [lfs]
-	url = https://jnrtestlfs.blob.core.windows.net/testlfs2/info/lfs
+	url = http://127.0.0.1:5000/my-organization/test-repo
